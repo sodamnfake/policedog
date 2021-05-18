@@ -4,9 +4,8 @@
 
 #<web-proxy-autodiscovery>
 #https://pi-hole.net/2018/09/10/mitigate-a-new-cert-vulnerability-598349-with-an-entry-in-etc-hosts/#page-content
-0.0.0.0 wpad wpad.home.com 
-:: wpad wpad.home.com
-0.0.0.0  wpad.local
+0.0.0.0 wpad.home.com 
+0.0.0.0 wpad.local
 
 #<block-potplayer>
 0.0.0.0 p1-play.edge4k.com
