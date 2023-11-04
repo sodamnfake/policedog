@@ -1,11 +1,36 @@
-# Title: SUPER Stinger 2021
-# Description: da uotimate listht of.....THOTAL STHMEGA DESTHTWUKTION!!!!!!!!!!!!!!!!!!
+# Title: SUPER Stinger 2023
+# Description: >:3 da uotimhate listht of.....THOTAL STHMEGA DESTHTWUKTION!!!!!!!!!!!!!!!!!!
 # Last modified: Tue, 19 May 2021, 12:05
+
+############################################################
+#<BLOCK GMOD ADS (CUT FOR STINGER)>
+0.0.0.0		pinionprizes.gg
+0.0.0.0		pinion.gg
+0.0.0.0		motd.pinion.gg
+0.0.0.0		motdgd.com
+0.0.0.0		ads.elitepowered.com
+0.0.0.0		0x13601.info
+0.0.0.0		0x13601.info/en/?id=MDgwMCAwOTggODcwNg
+0.0.0.0		adadvisor.net	
+0.0.0.0		bundle.clearstream.tv
+
+#some retards
+0.0.0.0 registeridm.com
+0.0.0.0 ip-info.ff.avast.com
+0.0.0.0 ipm-provider.ff.avast.com
+0.0.0.0 emupdate.avcdn.net
+0.0.0.0 id.google.com
+0.0.0.0 telemetry.malwarebytes.com
+0.0.0.0 avxhome.se
+0.0.0.0 204.79.197.203
+#^microsoft poo connection from explorer.exe https://www.reddit.com/r/privacy/comments/ohe1d4/windows_explorerexe_connects_to_the_internet_now/
 
 #<web-proxy-autodiscovery>
 #https://pi-hole.net/2018/09/10/mitigate-a-new-cert-vulnerability-598349-with-an-entry-in-etc-hosts/#page-content
-0.0.0.0 wpad.home.com 
+0.0.0.0 wpad.home.com
 0.0.0.0 wpad.local
+0.0.0.0 home.home
+0.0.0.0 wpad.home
 
 #<block-potplayer>
 0.0.0.0 p1-play.edge4k.com
@@ -17,207 +42,52 @@
 0.0.0.0 play.kakao.com
 0.0.0.0 stat.tiara.kakao.com
 
-#<block-adobe>
-0.0.0.0 192.150.14.69
-0.0.0.0 192.150.18.101
-0.0.0.0 192.150.18.108
-0.0.0.0 192.150.22.40
-0.0.0.0 192.150.8.100
-0.0.0.0 192.150.8.118
-0.0.0.0 199.7.52.190
-0.0.0.0 199.7.52.190:80
-0.0.0.0 199.7.54.72
-0.0.0.0 199.7.54.72:80
-0.0.0.0 209-34-83-73.ood.opsource.net
-0.0.0.0 209.34.83.67
-0.0.0.0 209.34.83.67:43
-0.0.0.0 209.34.83.67:443
-0.0.0.0 209.34.83.73
-0.0.0.0 209.34.83.73:43
-0.0.0.0 209.34.83.73:443
-0.0.0.0 3dns-1.adobe.com
-0.0.0.0 3dns-2.adobe.com
-0.0.0.0 3dns-3.adobe.com
-0.0.0.0 3dns-4.adobe.com
-0.0.0.0 3dns-5.adobe.com
-0.0.0.0 3dns.adobe.com
-0.0.0.0 activate-sea.adobe.com
-0.0.0.0 activate-sea.adobe.de
-0.0.0.0 activate-sjc0.adobe.com
-0.0.0.0 activate-sjc0.adobe.de
-0.0.0.0 activate.adobe.com
-0.0.0.0 activate.adobe.de
-0.0.0.0 activate.wip.adobe.com
-0.0.0.0 activate.wip1.adobe.com
-0.0.0.0 activate.wip2.adobe.com
-0.0.0.0 activate.wip3.adobe.com
-0.0.0.0 activate.wip3.adobe.de
-0.0.0.0 activate.wip4.adobe.com
-0.0.0.0 adobe-dns-1.adobe.com
-0.0.0.0 adobe-dns-2.adobe.com
-0.0.0.0 adobe-dns-2.adobe.de
-0.0.0.0 adobe-dns-3.adobe.com
-0.0.0.0 adobe-dns-3.adobe.de
-0.0.0.0 adobe-dns-4.adobe.com
-0.0.0.0 adobe-dns.adobe.com
-0.0.0.0 adobe-dns.adobe.de
-0.0.0.0 adobe.activate.com
-0.0.0.0 adobeereg.com
-0.0.0.0 cmdls.adobe.com
-0.0.0.0 crl.verisign.net
-0.0.0.0 crl.verisign.net.
-0.0.0.0 ereg.adobe.com
-0.0.0.0 ereg.adobe.de
-0.0.0.0 ereg.wip.adobe.com
-0.0.0.0 ereg.wip1.adobe.com
-0.0.0.0 ereg.wip2.adobe.com
-0.0.0.0 ereg.wip3.adobe.com
-0.0.0.0 ereg.wip4.adobe.com
-0.0.0.0 genuine.adobe.com
-0.0.0.0 hlrcv.stage.adobe.com
-0.0.0.0 hl2rcv.adobe.com
-0.0.0.0 hl2rcv.adobe.de
-0.0.0.0 ims-na1-prprod.adobelogin.com
-0.0.0.0 lm.licenses.adobe.com
-0.0.0.0 lmlicenses.wip4.adobe.com
-0.0.0.0 na1r.services.adobe.com
-0.0.0.0 na2m-pr.licenses.adobe.com
-0.0.0.0 na2m-stg2.licenses.adobe.com
-0.0.0.0 na4r.services.adobe.com
-0.0.0.0 ocsp.spo1.verisign.com
-0.0.0.0 ood.opsource.net
-0.0.0.0 practivate.adobe
-0.0.0.0 practivate.adobe.
-0.0.0.0 practivate.adobe.com
-0.0.0.0 practivate.adobe.de
-0.0.0.0 practivate.adobe.ipp
-0.0.0.0 practivate.adobe.newoa
-0.0.0.0 practivate.adobe.ntp
-0.0.0.0 prod-rel-ffc-ccm.oobesaas.adobe.com
-0.0.0.0 s-2.adobe.com
-0.0.0.0 s-3.adobe.com
-0.0.0.0 tss-geotrust-crl.thawte.com
-0.0.0.0 uds.licenses.adobe.com
-0.0.0.0 wip.adobe.com
-0.0.0.0 wip1.adobe.com
-0.0.0.0 wip2.adobe.com
-0.0.0.0 wip3.adobe.com
-0.0.0.0 wip4.adobe.com
-0.0.0.0 wwis-dubc1-vip100.adobe.com
-0.0.0.0 wwis-dubc1-vip101.adobe.com
-0.0.0.0 wwis-dubc1-vip102.adobe.com
-0.0.0.0 wwis-dubc1-vip103.adobe.com
-0.0.0.0 wwis-dubc1-vip104.adobe.com
-0.0.0.0 wwis-dubc1-vip105.adobe.com
-0.0.0.0 wwis-dubc1-vip106.adobe.com
-0.0.0.0 wwis-dubc1-vip107.adobe.com
-0.0.0.0 wwis-dubc1-vip108.adobe.com
-0.0.0.0 wwis-dubc1-vip109.adobe.com
-0.0.0.0 wwis-dubc1-vip110.adobe.com
-0.0.0.0 wwis-dubc1-vip111.adobe.com
-0.0.0.0 wwis-dubc1-vip112.adobe.com
-0.0.0.0 wwis-dubc1-vip113.adobe.com
-0.0.0.0 wwis-dubc1-vip114.adobe.com
-0.0.0.0 wwis-dubc1-vip115.adobe.com
-0.0.0.0 wwis-dubc1-vip116.adobe.com
-0.0.0.0 wwis-dubc1-vip117.adobe.com
-0.0.0.0 wwis-dubc1-vip118.adobe.com
-0.0.0.0 wwis-dubc1-vip119.adobe.com
-0.0.0.0 wwis-dubc1-vip120.adobe.com
-0.0.0.0 wwis-dubc1-vip121.adobe.com
-0.0.0.0 wwis-dubc1-vip122.adobe.com
-0.0.0.0 wwis-dubc1-vip123.adobe.com
-0.0.0.0 wwis-dubc1-vip124.adobe.com
-0.0.0.0 wwis-dubc1-vip125.adobe.com
-0.0.0.0 wwis-dubc1-vip30.adobe.com
-0.0.0.0 wwis-dubc1-vip31.adobe.com
-0.0.0.0 wwis-dubc1-vip32.adobe.com
-0.0.0.0 wwis-dubc1-vip33.adobe.com
-0.0.0.0 wwis-dubc1-vip34.adobe.com
-0.0.0.0 wwis-dubc1-vip35.adobe.com
-0.0.0.0 wwis-dubc1-vip36.adobe.com
-0.0.0.0 wwis-dubc1-vip37.adobe.com
-0.0.0.0 wwis-dubc1-vip38.adobe.com
-0.0.0.0 wwis-dubc1-vip39.adobe.com
-0.0.0.0 wwis-dubc1-vip40.adobe.com
-0.0.0.0 wwis-dubc1-vip41.adobe.com
-0.0.0.0 wwis-dubc1-vip42.adobe.com
-0.0.0.0 wwis-dubc1-vip43.adobe.com
-0.0.0.0 wwis-dubc1-vip44.adobe.com
-0.0.0.0 wwis-dubc1-vip45.adobe.com
-0.0.0.0 wwis-dubc1-vip46.adobe.com
-0.0.0.0 wwis-dubc1-vip47.adobe.com
-0.0.0.0 wwis-dubc1-vip48.adobe.com
-0.0.0.0 wwis-dubc1-vip49.adobe.com
-0.0.0.0 wwis-dubc1-vip50.adobe.com
-0.0.0.0 wwis-dubc1-vip51.adobe.com
-0.0.0.0 wwis-dubc1-vip52.adobe.com
-0.0.0.0 wwis-dubc1-vip53.adobe.com
-0.0.0.0 wwis-dubc1-vip54.adobe.com
-0.0.0.0 wwis-dubc1-vip55.adobe.com
-0.0.0.0 wwis-dubc1-vip56.adobe.com
-0.0.0.0 wwis-dubc1-vip57.adobe.com
-0.0.0.0 wwis-dubc1-vip58.adobe.com
-0.0.0.0 wwis-dubc1-vip59.adobe.com
-0.0.0.0 wwis-dubc1-vip60.adobe.com
-0.0.0.0 wwis-dubc1-vip60.adobe.de
-0.0.0.0 wwis-dubc1-vip61.adobe.com
-0.0.0.0 wwis-dubc1-vip62.adobe.com
-0.0.0.0 wwis-dubc1-vip63.adobe.com
-0.0.0.0 wwis-dubc1-vip64.adobe.com
-0.0.0.0 wwis-dubc1-vip65.adobe.com
-0.0.0.0 wwis-dubc1-vip66.adobe.com
-0.0.0.0 wwis-dubc1-vip67.adobe.com
-0.0.0.0 wwis-dubc1-vip68.adobe.com
-0.0.0.0 wwis-dubc1-vip69.adobe.com
-0.0.0.0 wwis-dubc1-vip70.adobe.com
-0.0.0.0 wwis-dubc1-vip71.adobe.com
-0.0.0.0 wwis-dubc1-vip72.adobe.com
-0.0.0.0 wwis-dubc1-vip73.adobe.com
-0.0.0.0 wwis-dubc1-vip74.adobe.com
-0.0.0.0 wwis-dubc1-vip75.adobe.com
-0.0.0.0 wwis-dubc1-vip76.adobe.com
-0.0.0.0 wwis-dubc1-vip77.adobe.com
-0.0.0.0 wwis-dubc1-vip78.adobe.com
-0.0.0.0 wwis-dubc1-vip79.adobe.com
-0.0.0.0 wwis-dubc1-vip80.adobe.com
-0.0.0.0 wwis-dubc1-vip81.adobe.com
-0.0.0.0 wwis-dubc1-vip82.adobe.com
-0.0.0.0 wwis-dubc1-vip83.adobe.com
-0.0.0.0 wwis-dubc1-vip84.adobe.com
-0.0.0.0 wwis-dubc1-vip85.adobe.com
-0.0.0.0 wwis-dubc1-vip86.adobe.com
-0.0.0.0 wwis-dubc1-vip87.adobe.com
-0.0.0.0 wwis-dubc1-vip88.adobe.com
-0.0.0.0 wwis-dubc1-vip89.adobe.com
-0.0.0.0 wwis-dubc1-vip90.adobe.com
-0.0.0.0 wwis-dubc1-vip91.adobe.com
-0.0.0.0 wwis-dubc1-vip92.adobe.com
-0.0.0.0 wwis-dubc1-vip93.adobe.com
-0.0.0.0 wwis-dubc1-vip94.adobe.com
-0.0.0.0 wwis-dubc1-vip95.adobe.com
-0.0.0.0 wwis-dubc1-vip96.adobe.com
-0.0.0.0 wwis-dubc1-vip97.adobe.com
-0.0.0.0 wwis-dubc1-vip98.adobe.com
-0.0.0.0 wwis-dubc1-vip99.adobe.com
-0.0.0.0 www.adobeereg.com
-0.0.0.0 www.wip.adobe.com
-0.0.0.0 www.wip1.adobe.com
-0.0.0.0 www.wip2.adobe.com
-0.0.0.0 www.wip3.adobe.com
-0.0.0.0 www.wip4.adobe.com
+#<block-microsoft-game-ads>
+0.0.0.0 msmonplat.trafficmanager.net
+0.0.0.0 cdn.spotxcdn.com
+0.0.0.0 ads.api.vungle.com
+0.0.0.0 fp.msedge.net
+0.0.0.0 cdn.adnxs.com
+0.0.0.0 widgets.outbrain.com
+0.0.0.0 adbroker.mp.dse.microsoft.com
+0.0.0.0 api.taboola.com
+0.0.0.0 api.vungle.com
+
+#<block-luminar>
+0.0.0.0 luminar3win.update.skylum.com
+0.0.0.0 luminar3.s3-accelerate.amazonaws.com
+0.0.0.0 luminar4win.update.skylum.com
+0.0.0.0 luminar4.s3-accelerate.amazonaws.com
+0.0.0.0 geotargetly-1a441.appspot.com
+0.0.0.0 fx.macphun.com
+0.0.0.0 canonicalizer.ucsuri.tcs
+0.0.0.0 auth.macphun.com
+0.0.0.0 stats-api.skylum.com
+0.0.0.0 api.photolemur.com
+
+#<block-nik>
+0.0.0.0 https://activationv2.dxo.com/activation/WSActivation.asmx
+0.0.0.0 cchome.adobe.io
+0.0.0.0 blog.adobe.com
+0.0.0.0 adobe-aem.map.fastly.net
+0.0.0.0 resources.licenses.adobe.com
+0.0.0.0 lightroom.adobe.com
+0.0.0.0 api.typekit.com
+0.0.0.0 cctypekit.adobe.io
+
+#<block-adobe> these don't exist in spy adlist
+0.0.0.0 adelogs.adobe.com
+0.0.0.0 8ncdzpmmrg.adobe.io
+0.0.0.0 7m31guub0q.adobe.io
+0.0.0.0 jc95y2v12r.adobe.io
+0.0.0.0 ph0f2h2csf.adobe.io
+0.0.0.0 2ftem87osk.adobe.io
+0.0.0.0 b5kbg2ggog.adobe.io
 0.0.0.0 nero.com
-0.0.0.0 www.nero.com
 0.0.0.0 activate.nero.com
-0.0.0.0 www.activate.nero.com
 0.0.0.0 nero.de
-0.0.0.0 www.nero.de
 0.0.0.0 activate.nero.de
-0.0.0.0 www.activate.nero.de
-0.0.0.0 validation.sls.microsoft.com
 0.0.0.0 hh-software.com
-0.0.0.0 www.hh-software.com
-0.0.0.0 validation.sls.microsoft.com
 
 #<canvas-fingerprinting-sites>
 0.0.0.0 admicro1.vcmedia.vn
@@ -230,48 +100,15 @@
 0.0.0.0 src.kitcode.net
 0.0.0.0 stat.ringier.cz
 
-#<Windows10>
-settings-win.data.microsoft.com
-ctldl.windowsupdate.com
-0.0.0.0 a-0001.a-msedge.net
-0.0.0.0 choice.microsoft.com
-0.0.0.0 choice.microsoft.com.nstac.net
+#<Windows> these don't exist in spy adlist
+0.0.0.0 ctldl.windowsupdate.com
+0.0.0.0 windowsupdate.com
 0.0.0.0 compatexchange.cloudapp.net
-0.0.0.0 corpext.msitadfs.glbdns2.microsoft.com
-0.0.0.0 corp.sts.microsoft.com
-0.0.0.0 cs1.wpc.v0cdn.net
-0.0.0.0 df.telemetry.microsoft.com
-0.0.0.0 diagnostics.support.microsoft.com
 0.0.0.0 fe2.update.microsoft.com.akadns.net
-0.0.0.0 feedback.search.microsoft.com
-0.0.0.0 feedback.windows.com
-0.0.0.0 i1.services.social.microsoft.com
 0.0.0.0 i1.services.social.microsoft.com.nsatc.net
-0.0.0.0 oca.telemetry.microsoft.com
 0.0.0.0 oca.telemetry.microsoft.com.nsatc.net
-0.0.0.0 pre.footprintpredict.com
-0.0.0.0 redir.metaservices.microsoft.com
-0.0.0.0 reports.wes.df.telemetry.microsoft.com
-0.0.0.0 services.wes.df.telemetry.microsoft.com
-0.0.0.0 settings-sandbox.data.microsoft.com
 0.0.0.0 sls.update.microsoft.com.akadns.net
-0.0.0.0 sqm.df.telemetry.microsoft.com
-0.0.0.0 sqm.telemetry.microsoft.com
-0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
-0.0.0.0 ssw.live.com
 0.0.0.0 statsfe1.ws.microsoft.com
 0.0.0.0 statsfe2.update.microsoft.com.akadns.net
-0.0.0.0 survey.watson.microsoft.com
-0.0.0.0 telecommand.telemetry.microsoft.com
 0.0.0.0 telecommand.telemetry.microsoft.com.nsatc.net
-0.0.0.0 telemetry.appex.bing.net
-0.0.0.0 telemetry.microsoft.com
-0.0.0.0 telemetry.urs.microsoft.com
-0.0.0.0 vortex.data.microsoft.com
-0.0.0.0 vortex-sandbox.data.microsoft.com
-0.0.0.0 vortex-win.data.microsoft.com
-0.0.0.0 watson.live.com
-0.0.0.0 watson.microsoft.com
-0.0.0.0 watson.ppe.telemetry.microsoft.com
-0.0.0.0 watson.telemetry.microsoft.com
 0.0.0.0 watson.telemetry.microsoft.com.nsatc.net
